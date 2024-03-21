@@ -21,7 +21,7 @@ Este é um exemplo básico de como criar uma tela de formulário simples usando 
 
 ## Componentes do Formulário
 1. **Campo Nome**: EditText para inserir o nome do usuário.
-2. **Campo Senha**: EditText para inserir o endereço de email do usuário.
+2. **Campo Senha**: EditText para inserir a senha do usuário.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
